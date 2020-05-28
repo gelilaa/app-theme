@@ -39,7 +39,7 @@ body{
     color:#fff;
   }
   #showcase{
-    background:url('/images/intro.jpg') no-repeat center center;
+    background: no-repeat center center;
     background-size: cover;
     border-bottom:1px solid #56a79a;
     margin-bottom:30px;
