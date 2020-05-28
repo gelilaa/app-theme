@@ -27,6 +27,10 @@ dividing the project in sections of branches with working software frequently an
 - Push the change
 - Turn on GitHub Pages
 
+### issues
+- `create Repo Master Branch` [issue #1](https://github.com/gelilaa/app-theme/issues/1)  was assigned to this branch
+- It was closed after the update was pushed to `master`
+
 # 1. User Story: Title
 
 __As a site visitor,__ I want to know what the company is called 
@@ -34,7 +38,11 @@ __As a site visitor,__ I want to know what the company is called
 ### Branches
 
 - This user story was developed on a branch called `1-title’`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/13) to `master` when the feature was finished.
+
+### issues
+- `create title branch `  [issue #2](https://github.com/gelilaa/app-theme/issues/2)  was assigned to this branch
+- It was closed after the branch was merged to `master`
 
 
 ### HTML
@@ -56,7 +64,12 @@ ___As a site visitor,__ I want to know what their business is and the standout p
 ### Branches
 
 - This user story was developed on a branch called `2-introduction’`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/14) to `master` when the feature was finished.
+
+### issues
+- `create introduction branch ` [issue #3](https://github.com/gelilaa/app-theme/issues/3)  was assigned to this branch
+- It was closed after the branch was merged to `master`
+
 
 ### HTML
 
@@ -74,7 +87,12 @@ __As a site visitor,__ I want to know what the core features of the company are
 ### Branches
 
 - This user story was developed on a branch called `3-core-features’`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/15) to `master` when the feature was finished.
+
+### issues
+- `create core-features branch ` [issue #4](https://github.com/gelilaa/app-theme/issues/4)  was assigned to this branch
+- It was closed after the branch was merged to `master`
+
 
 ### HTML
 - Add a section: users can see what is included in the services of company as an option.
@@ -95,7 +113,12 @@ I also want to know briefly about them and want to know  if there is a way to re
 ### Branches
 
 - This user story was developed on a branch called `4-Address`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/16) to `master` when the feature was finished.
+
+### issues
+- `Create Address branch ` [issue #5](https://github.com/gelilaa/app-theme/issues/9)  was assigned to this branch
+- It was closed after the branch was merged to `master`
+
 
 ### HTML
 
@@ -114,8 +137,12 @@ __As a site visitor,__ I want to know about the company’s story
 ### Branches
 
 - This user story was developed on a branch called `5-about`
-- It was merged to `master` when the feature was finished.
-.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/17) to `master` when the feature was finished.
+
+### issues
+- `Create About branch ` [issue #6](https://github.com/gelilaa/app-theme/issues/6)  was assigned to this branch
+- It was closed after the branch was merged to `master`
+
 
 ### HTML
 
@@ -138,8 +165,12 @@ __As a site visitor,__ I want to know in detail, what they do and who they are
 ### Branches
 
 - This user story was developed on a branch called `6-about-text`
-- It was merged to `master` when the feature was finished.
-.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/18) to `master` when the feature was finished.
+
+### issues
+
+- `Create About-text branch ` [issue #7](https://github.com/gelilaa/app-theme/issues/7)  was assigned to this branch
+- It was closed after the branch was merged to `master`
 
 ### HTML
 
@@ -157,8 +188,11 @@ __As a site visitor,__ I want to know the services of the company,
 ### Branches
 
 - This user story was developed on a branch called `7-services`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/19) to `master` when the feature was finished.
 
+### issues
+- `Create services branch ` [issue #8](https://github.com/gelilaa/app-theme/issues/8)  was assigned to this branch
+- It was closed after the branch was merged to `master`
 
 
 ### HTML
@@ -180,8 +214,11 @@ __As a site visitor,__ I want to know the catagories of the services the company
 ### Branches
 
 -	This user story was developed on a branch called `8-services-cat`
--	It was merged to `master` when the feature was finished.
+-	It was [merged](https://github.com/gelilaa/app-theme/pull/20) to `master` when the feature was finished.
 
+### issues
+- `Create services-catagory branch ` [issue #9](https://github.com/gelilaa/app-theme/issues/9) was assigned to this branch
+- It was closed after the branch was merged to `master`
 
 
 ### HTML
@@ -201,7 +238,12 @@ __As a site visitor,__ I want to know how to contact the company,
 ### Branches
 
 - This user story was developed on a branch called `9-contact`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/21) to `master` when the feature was finished.
+
+### issues
+- `Create contact branch ` [issue #10](https://github.com/gelilaa/app-theme/issues/10)  was assigned to this branch
+- It was closed after the branch was merged to `master`
+
 
 
 
@@ -225,7 +267,11 @@ __As a site visitor,__ I want to know how to contact the company,
 ### Branches
 
 - This user story was developed on a branch called `10-contact-form`
-- It was merged to `master` when the feature was finished.
+- It was [merged](https://github.com/gelilaa/app-theme/pull/21) to `master` when the feature was finished.
+
+### issues
+- `Create contact form branch ` [issue #11](https://github.com/gelilaa/app-theme/issues/11)  was assigned to this branch
+- It was closed after the branch was merged to `master`
 
 ### HTML
 
@@ -248,3 +294,6 @@ __As a site visitor,__ I want to know how to contact the company,
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
+### issues
+- `Finishing Touches ` [issue #12](https://github.com/gelilaa/app-theme/issues/12)  was assigned 
+- It was closed after the update was pushed to `master`
